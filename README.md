@@ -1,13 +1,14 @@
-# ¡Hola! 👋
+# Hello! 👋
 
-Bienvenido/a a mi perfil de GitHub. Soy [Tu Nombre], [breve descripción sobre ti].
+I'm **Nicolás Sarchi**, a passionate junior backend developer. As a dedicated student, I've honed my technical skills through various hands-on projects during my learning journey. Although I may not have professional experience yet, I've gained invaluable insights and practical knowledge that have enhanced my abilities in software development. I'm enthusiastic about applying my skills to real-world challenges and constantly exploring new technologies to expand my expertise. Feel free to explore my projects and connect with me as I embark on the next exciting chapter of my coding adventure!
 
-## 🚀 Acerca de mí
 
-- 🌱 Actualmente estoy aprendiendo [tecnologías o habilidades en las que estás trabajando].
-- 👯 Estoy buscando colaborar en [proyectos o áreas específicas].
-- 💬 Pregúntame sobre [temas en los que tienes experiencia o interés].
-- 📫 Cómo contactarme: [correo electrónico u otras formas de contacto].
+## 🚀 About Me
+
+- 🌱 Currently deepening my expertise in [AngularJS](https://angularjs.org/) and [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) for web development.
+- 👯 Open to collaboration on exciting web development projects or anything related to the vast world of the web.
+- 📫 Feel free to reach me via email [nicolassarchipico@gmail.com](mailto:nicolassarchipico@gmail.com).
+
 
 ## ⚡ Tecnologías y Herramientas
 
@@ -15,21 +16,20 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-## 🌱 Proyectos Destacados
+## 🌱 Featured Projects
 
-- [Proyecto 1]
-- [Proyecto 2]
-- [Proyecto 3]
+- [PDF Report generator](https://github.com/Nicolas-Sarchi/PDFReportGenerator)
+- [CampusVeterinary](https://github.com/Nicolas-Sarchi/CampusVeterinary) 
 
-## 📈 Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=julianlpz69&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 Github Trophies
 
-## 📫 Contacto
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nicolas-Sarchi)](https://github.com/ryo-ma/github-profile-trophy)
 
-Puedes encontrarme en las siguientes redes sociales:
 
+## 📫 Contact
+
+You can find me on the following social platforms:
 - [LinkedIn](https://www.linkedin.com/in/nicolas-sarchi/)
-- [Twitter](URL_de_tu_perfil)
 
-¡Gracias por visitar mi perfil! 😊
+
