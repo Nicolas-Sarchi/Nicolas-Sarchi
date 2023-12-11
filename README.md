@@ -10,9 +10,9 @@ I'm **Nicolás Sarchi**, a passionate junior backend developer. As a dedicated s
 - 📫 Feel free to reach me via email [nicolassarchipico@gmail.com](mailto:nicolassarchipico@gmail.com).
 
 
-## ⚡ Tecnologías y Herramientas
+## ⚡ Technologies and Tools
 
-Aquí hay algunas de las tecnologías con las que trabajo:
+Here are some of the technologies I work with:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
