@@ -18,18 +18,13 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
 ## 🌱 Featured Projects
 
-- [PDF Report generator](https://github.com/Nicolas-Sarchi/PDFReportGenerator)
-- [CampusVeterinary](https://github.com/Nicolas-Sarchi/CampusVeterinary) 
+- [**PDF Report Generator**](https://github.com/Nicolas-Sarchi/PDFReportGenerator): A dynamic PDF report generator designed to streamline the creation of purchase invoice reports. This project aimed to automate and simplify the process of generating detailed and organized reports for purchase transactions.
+
+- [**CampusVeterinary**](https://github.com/Nicolas-Sarchi/CampusVeterinary): An all-encompassing veterinary clinic management system facilitating appointment scheduling, product purchases, and more. This project served as a comprehensive solution for efficiently managing various aspects of a veterinary clinic, enhancing operational efficiency and client service.
+
 
 
 ## 🏆 Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nicolas-Sarchi)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## 📫 Contact
-
-You can find me on the following social platforms:
-- [LinkedIn](https://www.linkedin.com/in/nicolas-sarchi/)
-
 
